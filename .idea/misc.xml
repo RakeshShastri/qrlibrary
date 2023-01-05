@@ -6,10 +6,19 @@
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/drawable/ic_email.xml" value="0.113" />
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/drawable/ic_lock.xml" value="0.113" />
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/drawable/ic_wave.xml" value="0.113" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/drawable/ic_wave2.xml" value="0.1135" />
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/drawable/round_bg.xml" value="0.113" />
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/drawable/round_border.xml" value="0.113" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/activity_admin_login.xml" value="0.1796875" />
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/activity_student_home.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/activity_student_login.xml" value="0.22" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/fragment_search.xml" value="0.1796875" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/fragment_student_account.xml" value="0.1796875" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/fragment_student_history.xml" value="0.1796875" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/layout/fragment_student_q_r.xml" value="0.1796875" />
+        <entry key="..\:/Users/dasas/AndroidStudioProjects/QRlibrary/app/src/main/res/menu/bottom_menu.xml" value="0.1796875" />
       </map>
     </option>
   </component>

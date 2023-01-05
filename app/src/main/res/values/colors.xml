@@ -11,4 +11,5 @@
 <!--    <color name="PrimaryBlue">#0099ff</color>-->
     <color name="PrimaryDarkBlue">#0099ff</color>
     <color name="AccentMagenta">#D81B60</color>
+    <color name="TransparentBlue">#a2d9ff</color>
 </resources>

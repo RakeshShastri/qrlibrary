@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/home3">
+
+    <fragment
+        android:id="@+id/home3"
+        android:name="com.qrlibrary.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/search3"
+        android:name="com.qrlibrary.Search"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/studentQR3"
+        android:name="com.qrlibrary.studentQR"
+        android:label="fragment_student_q_r"
+        tools:layout="@layout/fragment_student_q_r" />
+    <fragment
+        android:id="@+id/studentHistory3"
+        android:name="com.qrlibrary.studentHistory"
+        android:label="fragment_student_history"
+        tools:layout="@layout/fragment_student_history" />
+    <fragment
+        android:id="@+id/studentAccount2"
+        android:name="com.qrlibrary.studentAccount"
+        android:label="fragment_student_account"
+        tools:layout="@layout/fragment_student_account" />
+</navigation>
