@@ -2,6 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.qrlibrary">
 
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,7 +16,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QRlibrary">
         <activity
-            android:name=".StudentHome"
+            android:name=".QRScanner"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".AdminLogin"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -19,7 +32,7 @@
             android:name=".StudentLogin"
             android:exported="false" />
         <activity
-            android:name=".AdminLogin"
+            android:name=".StudentHome"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
